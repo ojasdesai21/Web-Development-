@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<students>
+  <student>
+    <name>Ojas Desai</name>
+    <rollno>63</rollno>
+    <course>Computer Science </course>
+  </student>
+  <student>
+    <name>Amey Munse</name>
+    <rollno>61</rollno>
+    <course>AIML</course>
+  </student>
+  <student>
+    <name>Shreyash Kapade</name>
+    <rollno>98</rollno>
+    <course>Robotics </course>
+  </student>
+</students>
